@@ -1,6 +1,6 @@
 // Variables
     // Initial Array of Characters
-        var characterArray = ["Scooby Doo", "Link - Legend of Zelda", "Lightning - FFXIII", "Faith - Mirrors Edge", "Sora", "Riku", "Dante - DMC", "Commander Shepard", "GLaDOS", "Master Chief", "Nathan Drake", "Bayonetta", "Tracer"]
+        var characterArray = ["Scooby Doo", "Link - Legend of Zelda", "Lightning - FFXIII", "Faith - Mirrors Edge", "Sora", "Lara Croft", "Dante - DMC", "Commander Shepard", "GLaDOS", "Master Chief", "Nathan Drake", "Bayonetta", "Tracer"]
 
 // Functions
     // Render Buttons

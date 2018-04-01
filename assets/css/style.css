@@ -1,0 +1,19 @@
+html, .container {
+    background: url(../images/background.png);
+}
+
+h6 {
+    color: white !important;
+}
+
+.section {
+    background-color: teal;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.characterGif {
+    text-align: center;
+    float: left;
+}
